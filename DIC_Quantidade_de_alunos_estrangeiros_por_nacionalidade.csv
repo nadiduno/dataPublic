@@ -1,0 +1,10 @@
+﻿Nome do Campo;Descrição do Campo;Tipo do Dado
+nomedep;Rede de Ensino;Texto
+de;Nome da DER;Texto
+distr;Distrito;Texto
+mun;Município;Texto
+tipoesc;Tipo da Escola;Numérico Inteiro
+cod_esc;Código da Escola;Numérico Inteiro
+nomesc;Nome da Unidade Escolar;Texto
+DS_PAIS;País de Origem;Texto
+Nº alunos;Número de alunos;Numérico Inteiro
